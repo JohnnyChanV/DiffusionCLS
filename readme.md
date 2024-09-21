@@ -2,7 +2,7 @@
 
 *Zhuowei Chen, Yuben Wu, Xinfeng Liao, Yujia Tian, Junyang Zhong, Lianxi Wang | DM Lab (Guangdong Univerisity of Foreign Studies)*
 
-Official repository for the paper **[An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/pdf/2409.03203)**.
+Official repository for the paper **[An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203)**.
 
 
 ![Overview](imgs/overview.jpg)
