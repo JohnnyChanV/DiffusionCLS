@@ -1,8 +1,8 @@
 # An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification
 
-*Zhuowei Chen, Yuben Wu, Xinfeng Liao, Yujia Tian, Junyang Zhong, Lianxi Wang | 
+**Zhuowei Chen, Yuben Wu, Xinfeng Liao, Yujia Tian, Junyang Zhong, Lianxi Wang**
 
-Data Mining Lab (Guangdong Univerisity of Foreign Studies)*
+*Data Mining Lab (Guangdong Univerisity of Foreign Studies)*
 
 Official repository for the paper **[An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203)**.
 
