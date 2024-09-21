@@ -6,7 +6,7 @@ Official repository for the paper **[An Effective Deployment of Diffusion LM for
 
 This repository is a detached fork from [Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf). All credits to their original implementation of the RLHF algorithms.
 
-![Overview](imgs/overview.pdf)
+![Overview](imgs/overview.jpg)
 
 
 ## Abstract
